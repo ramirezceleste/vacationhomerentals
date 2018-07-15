@@ -2,3 +2,15 @@
     background-color: #ffc107!important;
 }
 
+i.fas {
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 2px #ffc107;
+    padding: 0.5em 0.6em;
+    font-size: 35px;
+}
+
+#footer {
+    background-color: #ffc107!important;
+}
+
